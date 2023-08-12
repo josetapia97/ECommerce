@@ -1,0 +1,17 @@
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Utilidades.deps.json
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Utilidades.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Utilidades.pdb
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.csproj.AssemblyReference.cache
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.AssemblyInfoInputs.cache
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.AssemblyInfo.cs
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\refint\Ecommerce.Utilidades.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.pdb
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\ref\Ecommerce.Utilidades.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.DTO.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Modelo.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.DTO.pdb
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Modelo.pdb
+C:\Users\José\source\repos\Ecomerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.csproj.CopyComplete
