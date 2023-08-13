@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "h3DZVydgxs/Y055KV63GixMHmpqrL2xk4lQjmGhBY7pUAjrTmQZSTvj1ZNGU3eGwE+/LDwETQDjAYUPeunMIuw==",
+  "dgSpecHash": "JzRc4DHOUvFZWzO4Q8VolZ6tRxI1LbIsFpan2jA/VnnI9QzmKdnVAX3UeVBD2sG8irYFfjIIq/YLV6/neIlE6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\José\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\José\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\José\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\José\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
