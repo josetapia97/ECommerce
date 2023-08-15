@@ -79,3 +79,5 @@ C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.DT
 C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.Modelo.pdb
 C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.Repositorio.pdb
 C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.Utilidades.pdb
+C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
