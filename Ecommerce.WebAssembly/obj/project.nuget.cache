@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ae06PNsJKHiBUBk5rOb9GnxWOMQvNxrA1YPAfjVw0SW0TG9rnVh1+LbxdNLMnvUBlGK3xc0lCqsDFzyrrRpWbQ==",
+  "dgSpecHash": "IHvZlaUy3oebYLMgwr8wFoXxampS8n/PcpzsWC1v3HXBG4atLdOEfQDNJwRixTWicg7hZU8RXyovCTxPMkg7kw==",
   "success": true,
   "projectFilePath": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\José\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
+    "C:\\Users\\José\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\currietechnologies.razor.sweetalert2.5.5.0.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.9\\microsoft.aspnetcore.components.analyzers.7.0.9.nupkg.sha512",

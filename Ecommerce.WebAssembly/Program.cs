@@ -9,6 +9,9 @@ using Blazored.Toast;
 //servicio carrito
 using Ecommerce.WebAssembly.Servicios.Implementacion;
 using Ecommerce.WebAssembly.Servicios.Contrato;
+//servicio que personaliza alertas
+using CurrieTechnologies.Razor.SweetAlert2;
+
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
@@ -26,5 +29,8 @@ builder.Services.AddScoped<IProductoServicio, ProductoServicio>();
 builder.Services.AddScoped<ICarritoServicio, CarritoServicio>();
 builder.Services.AddScoped<IVentaServicio, VentaServicio>();
 builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
+
+//sweetalert
+builder.Services.AddSweetAlert2();
 
 await builder.Build().RunAsync();

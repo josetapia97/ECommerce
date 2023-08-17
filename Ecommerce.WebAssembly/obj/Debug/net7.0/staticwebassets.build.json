@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Affg0ecS4Esv2fJGWTErB9kKoeJ+w6z3sYxJswXlxHU=",
+  "Hash": "GolaF3zUBMkxSLKh5vWTt36T0OI1pPsE0HAU7p4OFsY=",
   "Source": "Ecommerce.WebAssembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\José\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\José\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\José\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "Ecommerce.WebAssembly",
@@ -49,6 +66,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.9\\build\\net7.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\.nuget\\packages\\blazored.localstorage\\4.3.0\\lib\\net7.0\\Blazored.LocalStorage.dll"
+    },
+    {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Toast.dll",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\.nuget\\packages\\blazored.toast\\4.1.0\\lib\\net7.0\\Blazored.Toast.dll"
     },
     {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.7.0.9.o6j6inlw4k.js",
@@ -100,6 +151,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\José\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.9\\runtimes\\browser-wasm\\native\\dotnet.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Ecommerce.DTO.dll",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Ecommerce.DTO.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.DTO\\bin\\Debug\\net7.0\\Ecommerce.DTO.dll"
+    },
+    {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Ecommerce.DTO.pdb",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Ecommerce.DTO.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.DTO\\bin\\Debug\\net7.0\\Ecommerce.DTO.pdb"
     },
     {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Ecommerce.WebAssembly.dll",
@@ -3927,6 +4012,23 @@
       "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat"
     },
     {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\6CWriFqS.gz",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Toast.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Toast.dll"
+    },
+    {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\6MbG316Q.gz",
       "SourceId": "Ecommerce.WebAssembly",
       "SourceType": "Computed",
@@ -3959,6 +4061,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.dll"
+    },
+    {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\73OJ7LKK.gz",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\7MJBnB0A.gz",
@@ -4265,6 +4384,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.dll"
+    },
+    {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\b+WEpmDe.gz",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Ecommerce.DTO.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Ecommerce.DTO.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Ecommerce.DTO.pdb"
     },
     {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\b3ZezQZ1.gz",
@@ -6426,6 +6562,23 @@
       "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.dll"
     },
     {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\W9bP7WDp.gz",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Ecommerce.DTO.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Ecommerce.DTO.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Ecommerce.DTO.dll"
+    },
+    {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\wH8smKrB.gz",
       "SourceId": "Ecommerce.WebAssembly",
       "SourceType": "Computed",
@@ -6883,23 +7036,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Ecommerce.WebAssembly.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ecommerce.WebAssembly.bundle.scp.css",
-      "SourceId": "Ecommerce.WebAssembly",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "/",
-      "RelativePath": "Ecommerce.WebAssembly.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ecommerce.WebAssembly.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\wwwroot\\css\\app.css",
