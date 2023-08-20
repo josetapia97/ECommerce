@@ -81,3 +81,5 @@ C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.Re
 C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.Utilidades.pdb
 C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.API.staticwebassets.runtime.json
+C:\Users\José\source\repos\Ecomerce\Ecommerce.API\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
