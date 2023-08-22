@@ -1,6 +1,7 @@
 ﻿@page "/dashboard"
 
 @inject IDashboardServicio dashboardServicio
+@attribute [Authorize(Roles = "Administrador")]
 
 
 <div class="row mt-4">

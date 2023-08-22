@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IHvZlaUy3oebYLMgwr8wFoXxampS8n/PcpzsWC1v3HXBG4atLdOEfQDNJwRixTWicg7hZU8RXyovCTxPMkg7kw==",
+  "dgSpecHash": "i6Kgx4amEcQf8Ww1h1/WfIAtNpr6W57NJdt8x6O+N47069SrwWx12MMjX9OS95ybhpPDXIQ6mKdKaT9cyD0EJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.9\\microsoft.aspnetcore.components.analyzers.7.0.9.nupkg.sha512",
+    "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.5\\microsoft.aspnetcore.components.authorization.7.0.5.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.9\\microsoft.aspnetcore.components.forms.7.0.9.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.9\\microsoft.aspnetcore.components.web.7.0.9.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.9\\microsoft.aspnetcore.components.webassembly.7.0.9.nupkg.sha512",

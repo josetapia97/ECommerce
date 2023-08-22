@@ -3,7 +3,8 @@
 @inject IVentaServicio ventaServicio
 @inject IToastService toastService
 @inject NavigationManager _navServicio
-
+@using Microsoft.AspNetCore.Components.Authorization
+@using System.Security.Claims
 
 
 
@@ -128,7 +129,7 @@
                     </div>
                 </EditForm>
 
-               @* COMENTAR TODO ESTO
+                @* COMENTAR TODO ESTO*@
                 <AuthorizeView>
                     <NotAuthorized>
                         <div class="alert alert-danger mt-2" role="alert">
@@ -136,7 +137,7 @@
                         </div>
                     </NotAuthorized>
                 </AuthorizeView>
-                *@
+                
 
             </div>
         </div>
@@ -146,15 +147,21 @@
 
 
 @code {
-	private bool disabled = true;
-	private List<CarritoDTO> lista = new List<CarritoDTO>();
-	private decimal? TotalPagar = 0;
-	private TarjetaDTO tarjeta = new TarjetaDTO();
+    private bool disabled = true;
+    private List<CarritoDTO> lista = new List<CarritoDTO>();
+    private decimal? TotalPagar = 0;
+    private TarjetaDTO tarjeta = new TarjetaDTO();
 
-	protected override async Task OnInitializedAsync()
-	{
-		lista = await carritoServicio.DevolverCarrito();
-	}
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationState{ get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        lista = await carritoServicio.DevolverCarrito();
+        var authState = await authenticationState;
+        if (authState.User.Identity.IsAuthenticated)
+            disabled = false;
+    }
 
 	private void Disminuir(int id)
 	{
@@ -204,9 +211,13 @@
 					Total = item.Total
 			});
 		}
+
+        var authState = await authenticationState;
+        string idUsuario = @authState.User.Claims.Where(c => c.Type == ClaimTypes.NameIdentifier).Select(c => c.Value).Single();
+                    
 		VentaDTO modelo = new VentaDTO()
 			{
-				IdUsuario = 1,
+                IdUsuario = Convert.ToInt32(idUsuario),
 				Total = lista.Sum(i => i.Total),
 				DetalleVenta = detalle
 			};

@@ -11,6 +11,9 @@ using Ecommerce.WebAssembly.Servicios.Implementacion;
 using Ecommerce.WebAssembly.Servicios.Contrato;
 //servicio que personaliza alertas
 using CurrieTechnologies.Razor.SweetAlert2;
+//Servicio para mantenedor de sesion de usuario
+using Microsoft.AspNetCore.Components.Authorization;
+using Ecommerce.WebAssembly.Extensiones;
 
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
@@ -32,5 +35,7 @@ builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
 
 //sweetalert
 builder.Services.AddSweetAlert2();
-
+//sesion usuario
+builder.Services.AddAuthorizationCore();
+builder.Services.AddScoped<AuthenticationStateProvider, AutenticacionExtension>();
 await builder.Build().RunAsync();
