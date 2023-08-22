@@ -11,7 +11,7 @@ namespace Ecommerce.DTO
         //es la implementacion de la estructura de como se guardara todo en el carrito
         public ProductoDTO? Producto { get; set; }
         public int? Cantidad { get; set; }
-        public int? Precio { get; set; }
-        public int? Total { get; set; }
+        public decimal? Precio { get; set; }
+        public decimal? Total { get; set; }
     }
 }
