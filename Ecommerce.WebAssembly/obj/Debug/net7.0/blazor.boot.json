@@ -12,6 +12,7 @@
       "CurrieTechnologies.Razor.SweetAlert2.dll": "sha256-jaHzMzp157atLBDyTfDX4LuHLGBZ1q\/5g\/2s83upTCk=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-P7\/HRwCqdk3q1MD7UtlAXMN\/E8gZRdzme6ESGZsXHNk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-72wt1Dncw5Whm9zUb3wanQSQBmY\/Ugu9fHEvX\/FtZ8s=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-41dLN3Fx\/ysI0SP+sKtAMWTZamweRiufJ7JPqZlnXrA=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-E0\/WiiyuGn1me5bQB04\/7a\/PMnrIvan9wukL5Mkbpfw=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-TCcnSu0lpqwtEpi\/Z+TlkOc8tVugie5X1DJIijkJCYU=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-VkocVueBv04uz\/jQbR5ondezPOmVm3JBsOLji+0L6oU=",
@@ -202,14 +203,14 @@
       "netstandard.dll": "sha256-5SHKPh1PcuJjq4lIo7ymdIyhb9d3++oMAjr46auhUSc=",
       "System.Private.CoreLib.dll": "sha256-eH+XIsCUG5oZ0k8AIzNtRLTCLiV\/8Zv0RFCPMsIkdYY=",
       "Ecommerce.DTO.dll": "sha256-GNETf0VDD3AHxF4GxSds8tnc6Loq8SSmERUKekKocS0=",
-      "Ecommerce.WebAssembly.dll": "sha256-f3zrDIAnD61\/wNb8hv3YoYqTigyeAToHe1kIRtiKLWg="
+      "Ecommerce.WebAssembly.dll": "sha256-eLLERo+\/A8sClKTzhLTjOVs1DaPRXsvRr9Bt0NPO6N8="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "Ecommerce.DTO.pdb": "sha256-8UuNFL2PihNhi4D1XFe5Qp3e59C4E2UVWhgc3jYneOg=",
-      "Ecommerce.WebAssembly.pdb": "sha256-5UVRm5jcdEDLeIWGKBGfcez5zre48rHxcU3HL7eXUL0="
+      "Ecommerce.WebAssembly.pdb": "sha256-tZXqLa4l4LybEWdVWiba32n05ftx5n8N1HCiL2I1rug="
     },
     "runtime": {
       "dotnet.7.0.9.o6j6inlw4k.js": "sha256-dUIY5Mz0ozZWqtTfBb7ArJKbdh5IIp8BXeq6UjK4u\/c=",

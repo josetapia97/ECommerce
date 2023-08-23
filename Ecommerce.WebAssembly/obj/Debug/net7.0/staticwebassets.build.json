@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MJP5fJk7wjUA8XILQk+JiWXy6v+UaJWs9EHd2AWDnjw=",
+  "Hash": "SK7djyTrv8a6fHALfCQlt+oCI5cD9xKLE412lTS4Xzc=",
   "Source": "Ecommerce.WebAssembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -899,6 +899,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -5999,6 +6016,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.FileSystem.dll"
+    },
+    {
+      "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\lMf2lndH.gz",
+      "SourceId": "Ecommerce.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\José\\source\\repos\\Ecomerce\\Ecommerce.WebAssembly\\obj\\Debug\\net7.0\\build-gz\\LSsA84+A.gz",

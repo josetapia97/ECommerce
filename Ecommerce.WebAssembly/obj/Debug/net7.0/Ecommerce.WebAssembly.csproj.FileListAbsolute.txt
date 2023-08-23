@@ -843,3 +843,7 @@ C:\Users\José\source\repos\Ecomerce\Ecommerce.WebAssembly\bin\Debug\net7.0\wwwr
 C:\Users\José\source\repos\Ecomerce\Ecommerce.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\CurrieTechnologies.Razor.SweetAlert2.dll.gz
 C:\Users\José\source\repos\Ecomerce\Ecommerce.WebAssembly\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
 C:\Users\José\source\repos\Ecomerce\Ecommerce.WebAssembly\obj\Debug\net7.0\build-gz\b+U8gZRn.gz
+C:\Users\José\source\repos\Ecomerce\Ecommerce.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.WebAssembly\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\José\source\repos\Ecomerce\Ecommerce.WebAssembly\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\José\source\repos\Ecomerce\Ecommerce.WebAssembly\obj\Debug\net7.0\build-gz\lMf2lndH.gz
